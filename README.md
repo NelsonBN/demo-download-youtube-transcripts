@@ -5,9 +5,6 @@
 ```bash
 # To download the video transcript
 pip install youtube_transcript_api
-
-# To translate the transcript
-pip install easygoogletranslate
 ```
 
 
